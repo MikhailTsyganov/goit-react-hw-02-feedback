@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}
+
+.list li {
+  width: 100%;
+}
+
+.list button {
+  width: 90%;
+  padding: 5px;
+  cursor: pointer;
+}
